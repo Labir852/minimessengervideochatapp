@@ -1,0 +1,6 @@
+@MiniMessenger_HostAddress = http://localhost:5051
+
+GET {{MiniMessenger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
