@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\MiniMessenger.csproj": {}
+    "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\MiniMessenger.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\MiniMessenger.csproj": {
+    "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\MiniMessenger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\MiniMessenger.csproj",
+        "projectUniqueName": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\MiniMessenger.csproj",
         "projectName": "MiniMessenger",
-        "projectPath": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\MiniMessenger.csproj",
-        "packagesPath": "C:\\Users\\Tanvir Anjum Labir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\obj\\",
+        "projectPath": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\MiniMessenger.csproj",
+        "packagesPath": "C:\\Users\\labir\\.nuget\\packages\\",
+        "outputPath": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tanvir Anjum Labir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\labir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -96,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
