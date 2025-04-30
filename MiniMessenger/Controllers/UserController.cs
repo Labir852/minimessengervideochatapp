@@ -1,30 +1,32 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.Identity.Client;
+using MiniMessenger.Repository.Interfaces;
 using MiniMessenger.Services;
 using System.Security.Claims;
-
+//[Authorize]
 [ApiController]
 [Route("api/[controller]")]
 public class UsersController : ControllerBase
 {
-    private readonly UserService _userService;
-    private readonly IHttpContextAccessor _httpContextAccessor;
+    //private readonly IUserRepository _userService;
 
-    public UsersController(UserService userService, IHttpContextAccessor httpContextAccessor)
-    {
-        _userService = userService;
-        _httpContextAccessor = httpContextAccessor;
-    }
+    //public UsersController(IUserRepository userService)
+    //{
+    //    _userService = userService;
+    //}
 
     [HttpGet]
-    public async Task<IActionResult> GetUsers()
+    public string GetUsers()
     {
-        var currentUserId = User.FindFirstValue(ClaimTypes.NameIdentifier); // If JWT-based auth
-        if (string.IsNullOrEmpty(currentUserId))
-        {
-            return Unauthorized();
-        }
+        var currentUserId = User.FindFirstValue(ClaimTypes.NameIdentifier);  // If JWT-based auth
+          
+        //if (string.IsNullOrEmpty(currentUserId))
+        //{
+        //    return Unauthorized();
+        //}
 
-        var users = await _userService.GetAllUsersExceptAsync(currentUserId);
-        return Ok(users);
+        //var users =  _userService.GetUsersListExceptCurrent(currentUserId);
+        return currentUserId + "afdasfas";
     }
 }

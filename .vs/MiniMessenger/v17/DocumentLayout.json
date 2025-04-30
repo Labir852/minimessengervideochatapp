@@ -1,77 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\",
+  "WorkspaceRootPath": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|e:\\webdevelopment\\projects\\minimessengervideochatapp\\minimessenger\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|c:\\users\\tanvir anjum labir\\source\\repos\\minimessenger\\minimessenger\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|e:\\webdevelopment\\projects\\minimessengervideochatapp\\minimessenger\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|e:\\webdevelopment\\projects\\minimessengervideochatapp\\minimessenger\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|e:\\webdevelopment\\projects\\minimessengervideochatapp\\minimessenger\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|c:\\users\\tanvir anjum labir\\source\\repos\\minimessenger\\minimessenger\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|e:\\webdevelopment\\projects\\minimessengervideochatapp\\minimessenger\\models\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|c:\\users\\tanvir anjum labir\\source\\repos\\minimessenger\\minimessenger\\repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|c:\\users\\tanvir anjum labir\\source\\repos\\minimessenger\\minimessenger\\models\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\models\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|e:\\webdevelopment\\projects\\minimessengervideochatapp\\minimessenger\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|e:\\webdevelopment\\projects\\minimessengervideochatapp\\minimessenger\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|e:\\webdevelopment\\projects\\minimessengervideochatapp\\minimessenger\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|e:\\webdevelopment\\projects\\minimessengervideochatapp\\minimessenger\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|e:\\webdevelopment\\projects\\minimessengervideochatapp\\minimessenger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|e:\\webdevelopment\\projects\\minimessengervideochatapp\\minimessenger\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|e:\\webdevelopment\\projects\\minimessengervideochatapp\\minimessenger\\hubs\\customuseridprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\hubs\\customuseridprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|e:\\webdevelopment\\projects\\minimessengervideochatapp\\minimessenger\\hubs\\callhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\hubs\\callhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|e:\\webdevelopment\\projects\\minimessengervideochatapp\\minimessenger\\minimessenger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\minimessenger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|e:\\webdevelopment\\projects\\minimessengervideochatapp\\minimessenger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|c:\\users\\tanvir anjum labir\\source\\repos\\minimessenger\\minimessenger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|e:\\webdevelopment\\projects\\minimessengervideochatapp\\minimessenger\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|c:\\users\\tanvir anjum labir\\source\\repos\\minimessenger\\minimessenger\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|c:\\users\\tanvir anjum labir\\source\\repos\\minimessenger\\minimessenger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|c:\\users\\tanvir anjum labir\\source\\repos\\minimessenger\\minimessenger\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|c:\\users\\tanvir anjum labir\\source\\repos\\minimessenger\\minimessenger\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|c:\\users\\tanvir anjum labir\\source\\repos\\minimessenger\\minimessenger\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|c:\\users\\tanvir anjum labir\\source\\repos\\minimessenger\\minimessenger\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|c:\\users\\tanvir anjum labir\\source\\repos\\minimessenger\\minimessenger\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|c:\\users\\tanvir anjum labir\\source\\repos\\minimessenger\\minimessenger\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|c:\\users\\tanvir anjum labir\\source\\repos\\minimessenger\\minimessenger\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|c:\\users\\tanvir anjum labir\\source\\repos\\minimessenger\\minimessenger\\hubs\\customuseridprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\hubs\\customuseridprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|c:\\users\\tanvir anjum labir\\source\\repos\\minimessenger\\minimessenger\\hubs\\callhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\hubs\\callhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|c:\\users\\tanvir anjum labir\\source\\repos\\minimessenger\\minimessenger\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|e:\\webdevelopment\\projects\\minimessengervideochatapp\\minimessenger\\migrations\\20250429041940_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|c:\\users\\tanvir anjum labir\\source\\repos\\minimessenger\\minimessenger\\migrations\\20250429041940_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\migrations\\20250429041940_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|e:\\webdevelopment\\projects\\minimessengervideochatapp\\minimessenger\\migrations\\20250429132141_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|c:\\users\\tanvir anjum labir\\source\\repos\\minimessenger\\minimessenger\\migrations\\20250429132141_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A515F81A-BD7F-4A28-B114-6C9BD2033CE6}|MiniMessenger\\MiniMessenger.csproj|solutionrelative:minimessenger\\migrations\\20250429132141_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -82,123 +86,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsersModel.cs",
-              "DocumentMoniker": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Models\\UsersModel.cs",
-              "RelativeDocumentMoniker": "MiniMessenger\\Models\\UsersModel.cs",
-              "ToolTip": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Models\\UsersModel.cs",
-              "RelativeToolTip": "MiniMessenger\\Models\\UsersModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T16:35:56.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "MiniMessenger\\Models\\ApplicationUser.cs",
-              "ToolTip": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "MiniMessenger\\Models\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T03:59:16.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "MiniMessenger\\Controllers\\AuthController.cs",
-              "ToolTip": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "MiniMessenger\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:08:03.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "MiniMessenger\\Controllers\\UserController.cs",
-              "ToolTip": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Controllers\\UserController.cs",
-              "RelativeToolTip": "MiniMessenger\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T16:11:45.533Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "MiniMessenger\\Controllers\\AccountController.cs",
-              "ToolTip": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "MiniMessenger\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:41:18.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginModel.cs",
-              "DocumentMoniker": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Models\\LoginModel.cs",
-              "RelativeDocumentMoniker": "MiniMessenger\\Models\\LoginModel.cs",
-              "ToolTip": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Models\\LoginModel.cs",
-              "RelativeToolTip": "MiniMessenger\\Models\\LoginModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:09:32.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "MiniMessenger\\Services\\UserService.cs",
-              "ToolTip": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Services\\UserService.cs",
-              "RelativeToolTip": "MiniMessenger\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T16:12:44.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Services\\TokenService.cs",
-              "RelativeDocumentMoniker": "MiniMessenger\\Services\\TokenService.cs",
-              "ToolTip": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Services\\TokenService.cs",
-              "RelativeToolTip": "MiniMessenger\\Services\\TokenService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:43:05.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "MiniMessenger\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "MiniMessenger\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,24 +107,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Program.cs",
-              "RelativeDocumentMoniker": "MiniMessenger\\Program.cs",
-              "ToolTip": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Program.cs",
-              "RelativeToolTip": "MiniMessenger\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:00:07.527Z",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\appsettings.json",
+              "RelativeDocumentMoniker": "MiniMessenger\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\appsettings.json",
+              "RelativeToolTip": "MiniMessenger\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T04:00:35.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
+              "Title": "UsersModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Models\\UsersModel.cs",
+              "RelativeDocumentMoniker": "MiniMessenger\\Models\\UsersModel.cs",
+              "ToolTip": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Models\\UsersModel.cs",
+              "RelativeToolTip": "MiniMessenger\\Models\\UsersModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:35:56.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MiniMessenger\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MiniMessenger\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:11:45.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "RegisterModel.cs",
-              "DocumentMoniker": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Models\\RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Models\\RegisterModel.cs",
               "RelativeDocumentMoniker": "MiniMessenger\\Models\\RegisterModel.cs",
-              "ToolTip": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Models\\RegisterModel.cs",
               "RelativeToolTip": "MiniMessenger\\Models\\RegisterModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -233,11 +159,128 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "MiniMessenger\\Repository\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "MiniMessenger\\Repository\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T03:37:16.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MiniMessenger\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MiniMessenger\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:08:03.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "MiniMessenger\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "MiniMessenger\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T03:59:16.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Repository\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MiniMessenger\\Repository\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Repository\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "MiniMessenger\\Repository\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T03:37:31.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Program.cs",
+              "RelativeDocumentMoniker": "MiniMessenger\\Program.cs",
+              "ToolTip": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Program.cs",
+              "RelativeToolTip": "MiniMessenger\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:00:07.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "MiniMessenger\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Services\\TokenService.cs",
+              "RelativeToolTip": "MiniMessenger\\Services\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:43:05.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MiniMessenger\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Services\\UserService.cs",
+              "RelativeToolTip": "MiniMessenger\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:12:44.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "MiniMessenger\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Models\\LoginModel.cs",
+              "RelativeToolTip": "MiniMessenger\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:09:32.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MiniMessenger\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MiniMessenger\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:41:18.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "CustomUserIdProvider.cs",
-              "DocumentMoniker": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Hubs\\CustomUserIdProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Hubs\\CustomUserIdProvider.cs",
               "RelativeDocumentMoniker": "MiniMessenger\\Hubs\\CustomUserIdProvider.cs",
-              "ToolTip": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Hubs\\CustomUserIdProvider.cs",
+              "ToolTip": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Hubs\\CustomUserIdProvider.cs",
               "RelativeToolTip": "MiniMessenger\\Hubs\\CustomUserIdProvider.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -246,75 +289,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MiniMessenger.csproj",
-              "DocumentMoniker": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\MiniMessenger.csproj",
-              "RelativeDocumentMoniker": "MiniMessenger\\MiniMessenger.csproj",
-              "ToolTip": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\MiniMessenger.csproj",
-              "RelativeToolTip": "MiniMessenger\\MiniMessenger.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-29T15:18:36.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "CallHub.cs",
-              "DocumentMoniker": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Hubs\\CallHub.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Hubs\\CallHub.cs",
               "RelativeDocumentMoniker": "MiniMessenger\\Hubs\\CallHub.cs",
-              "ToolTip": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Hubs\\CallHub.cs",
+              "ToolTip": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Hubs\\CallHub.cs",
               "RelativeToolTip": "MiniMessenger\\Hubs\\CallHub.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T15:19:37.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "MiniMessenger\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "MiniMessenger\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T11:01:28.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\appsettings.json",
-              "RelativeDocumentMoniker": "MiniMessenger\\appsettings.json",
-              "ToolTip": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\appsettings.json",
-              "RelativeToolTip": "MiniMessenger\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-29T04:00:35.388Z"
+              "WhenOpened": "2025-04-29T15:19:37.695Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "20250429041940_InitialCreate.cs",
-              "DocumentMoniker": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Migrations\\20250429041940_InitialCreate.cs",
-              "RelativeDocumentMoniker": "MiniMessenger\\Migrations\\20250429041940_InitialCreate.cs",
-              "ToolTip": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Migrations\\20250429041940_InitialCreate.cs",
-              "RelativeToolTip": "MiniMessenger\\Migrations\\20250429041940_InitialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABWAAAA",
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MiniMessenger\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MiniMessenger\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:19:40.369Z"
+              "WhenOpened": "2025-04-29T11:01:28.673Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "20250429041940_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Migrations\\20250429041940_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MiniMessenger\\Migrations\\20250429041940_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Migrations\\20250429041940_InitialCreate.cs",
+              "RelativeToolTip": "MiniMessenger\\Migrations\\20250429041940_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:19:40.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "20250429132141_InitialMigration.cs",
-              "DocumentMoniker": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Migrations\\20250429132141_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Migrations\\20250429132141_InitialMigration.cs",
               "RelativeDocumentMoniker": "MiniMessenger\\Migrations\\20250429132141_InitialMigration.cs",
-              "ToolTip": "E:\\WebDevelopment\\Projects\\minimessengervideochatapp\\MiniMessenger\\Migrations\\20250429132141_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\Tanvir Anjum Labir\\source\\repos\\MiniMessenger\\MiniMessenger\\Migrations\\20250429132141_InitialMigration.cs",
               "RelativeToolTip": "MiniMessenger\\Migrations\\20250429132141_InitialMigration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T13:21:41.822Z"
+              "WhenOpened": "2025-04-29T13:21:41.822Z",
+              "EditorCaption": ""
             }
           ]
         }
